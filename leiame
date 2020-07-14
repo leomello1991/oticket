@@ -1,0 +1,27 @@
+{paymentMode:default
+,paymentMethod:boleto
+,receiverEmail:caio_mijoler@hotmail.com
+,currency:BRL
+,extraAmount:1.00
+,itemId1:0001
+,itemDescription1:NotebookPrata
+,itemAmount1:24300.00
+,itemQuantity1:1
+,notificationURL:https://sualoja.com.br/notifica.html
+,reference:REF1234
+,senderName:Jose Comprador
+,senderCPF:22111944785
+,senderAreaCode:11
+,senderPhone:56273440
+,senderEmail:c03136565071323438407@sandbox.pagseguro.com.br
+,senderHash:9c7120503c339be07a9b6d33a8a1de5ddf3b8ec50b9dbf9b92270332af09e645
+,shippingAddressStreet:Av.Brig.FariaLima
+,shippingAddressNumber:1384
+,shippingAddressComplement:5oandar
+,shippingAddressDistrict:JardimPaulistano
+,shippingAddressPostalCode:01452002
+,shippingAddressCity:SaoPaulo
+,shippingAddressState:SP
+,shippingAddressCountry:BRA
+,shippingType:1
+,shippingCost:1.00}
